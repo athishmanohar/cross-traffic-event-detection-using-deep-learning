@@ -1,0 +1,44 @@
+item {
+  id: 1
+  name: 'sign board'
+}
+
+item {
+  id: 2
+  name: 'straight'
+}
+
+item {
+  id: 3
+  name: 'left'
+}
+
+item {
+  id: 4
+  name: 'right'
+}
+
+item {
+  id: 5
+  name: 'side view car'
+}
+
+item {
+  id: 6
+  name: 'side view bike'
+}
+
+item {
+  id: 7
+  name: 'left u turn'
+}
+
+item {
+  id: 8
+  name: 'straight right'
+}
+
+item {
+  id: 9
+  name: 'straight left'
+}
